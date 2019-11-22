@@ -1,6 +1,6 @@
-#Open Science and a Publishing Utopia — A GenR Theme
+# Open Science and a Publishing Utopia — A GenR Theme
 
-#PublishingUtopia
+[#PublishingUtopia](https://twitter.com/search?q=%23PublishingUtopia&src=typed_query&f=live)
 
 _What are the current development that will lead to a utopian free circulation of knowledge?_
 
