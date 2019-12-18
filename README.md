@@ -37,4 +37,5 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Public infrastructure: projects and economics
  - Methods of systems dev: DevOps and Virtualisation
  - Self publishing and decentralised publishing - Solid, Dockieli, etc
+ - OA and considering the public as an academic reader
  
