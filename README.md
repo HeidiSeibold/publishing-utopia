@@ -25,8 +25,8 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
 ## Idea to include in the theme
 
  - Scholarly Led &ndash; https://scholarled.org/
- - Substance call&ndash; 
- - Business models and funder requirements
+ - Substance call&ndash; https://www.facebook.com/aufreiter/posts/10157258618493171
+ - Business models and funder requirements, disintermediation, creative destruction/disruption
  - Semantic Open Access
  - CryptPad and zeor knowledge systems
  - BMBF Open Access network
@@ -36,3 +36,5 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Hopes in Collaborative and Real-time systems
  - Public infrastructure: projects and economics
  - Methods of systems dev: DevOps and Virtualisation
+ - Self publishing and decentralised publishing - Solid, Dockieli, etc
+ 
