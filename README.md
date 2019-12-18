@@ -21,3 +21,18 @@ Notes: https://github.com/Gen-R/publishing-utopia
 Twitter list: https://twitter.com/Gen_R_/lists/publishing-utopia
 
 Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/VW34GSEA
+
+## Idea to include in the theme
+
+ - Scholarly Led &ndash; https://scholarled.org/
+ - Substance call&ndash; 
+ - Business models and funder requirements
+ - Semantic Open Access
+ - CryptPad and zeor knowledge systems
+ - BMBF Open Access network
+ - Shadow Libraries
+ - Typesetting and designing for multi-format - Vivliostyle and paginated CSS
+ - Modern Publishing System
+ - Hopes in Collaborative and Real-time systems
+ - Public infrastructure: projects and economics
+ - Methods of systems dev: DevOps and Virtualisation
