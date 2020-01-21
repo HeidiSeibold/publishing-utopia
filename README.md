@@ -48,6 +48,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Crypto IDs and publishing
  - Open Peer Review - https://asapbio.org/peer-review
  - Computational papers
+ - 
  
 ## Surveys
 
@@ -57,7 +58,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
 
 ## Open research/Open scholarship/Open science publishing?
 
-Open Science Publishing means to make a publication that is linked to the whole research cycle. For a publication to be fully Open Access, licenced for the four open freedoms - to use, study, share and improve - and be 'copy left' licenced so all derivative work is also open. To be technically interoperable using open standards, semantically encoded and use controlled vovabularies, taxonomies and PIDs, and have all its sub components as discrete digital objects. Where needed to support 'computational papers' technologies. To use versioning, continous integration for real-time validation of open standards, etc., with open source code to allow for multi-format replication with software citation. To support fair metrics, granular annotation, social book/reading features, but prevent reader intrusive tracking, and support deep linking. Lastly to support detailed attribution and roles and not to prohibit publishing or reading with unecessary charges, moving fees away from these two points in the publcation lifecycle.
+Open Science Publishing means to make a publication that is linked to the whole research cycle, with all digital objects and related code tooling open. For a publication to be fully Open Access, licenced for the four open freedoms - to use, study, share and improve - and be 'copy left' licenced so all derivative work is also open. To be technically interoperable using open standards, semantically encoded and use controlled vovabularies, taxonomies and PIDs, and have all its sub components as discrete digital objects. Where needed to support 'computational papers' technologies. To use versioning, continous integration for real-time validation of open standards, etc., with open source code to allow for multi-format replication with software citation. To support fair metrics, granular annotation, social book/reading features, but prevent reader intrusive tracking, and support deep linking. Lastly to support detailed attribution and roles and not to prohibit publishing or reading with unecessary charges, moving fees away from these two points in the publcation lifecycle. 
 
 ### Mapping the questions in Open Science Publishing and locating FOSS/open providers 
 
