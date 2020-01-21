@@ -43,17 +43,40 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
   - Using flat file systems
  - OA and considering the public as an academic reader
  - Peer Community https://peercommunityin.org/
- - Pre-prints - 
+ - Preprints - 
  - Slowly introducing the Blockchain
  - Crypto IDs and publishing
+ - Open Peer Review - https://asapbio.org/peer-review
+ - Computational papers
  
 ## Surveys
 
-
-## Open research publishing / Open science publishing / Open scholarship publishing
-
-Mapping the questions in Open Science Publishing
+ - MIT: Mind the Gap: A Landscape Analysis of Open Source Publishing Tools and Platforms - https://mitpress.mit.edu/blog/mind-the-gap
+ - Computational papers:Konkol, Markus, Daniel Nüst, and Laura Goulier. ‘Publishing Computational Research -- A Review of Infrastructures for Reproducible and Transparent Scholarly Communication’. ArXiv:2001.00484 [Cs], 2 January 2020. http://arxiv.org/abs/2001.00484.
 
 
+## Open research/Open scholarship/Open science publishing?
+
+Open Science Publishing means to make a publication that is linked to the whole research cycle. For a publication to be fully Open Access, licenced for the four open freedoms - to use, study, share and improve - and be 'copy left' licenced so all derivative work is also open. To be technically interoperable using open standards, semantically encoded and use controlled vovabularies, taxonomies and PIDs, and have all its sub components as discrete digital objects. Where needed to support 'computational papers' technologies. To use versioning, continous integration for real-time validation of open standards, etc., with open source code to allow for multi-format replication with software citation. To support fair metrics, granular annotation, social book/reading features, but prevent reader intrusive tracking, and support deep linking. Lastly to support detailed attribution and roles and not to prohibit publishing or reading with unecessary charges, moving fees away from these two points in the publcation lifecycle.
+
+### Mapping the questions in Open Science Publishing and locating FOSS/open providers 
+
+Technical (more so)
+
+ - Open Peer Review
+ - Preprints
+ - Computational papers
+ - Publication PID
+ - Person PID
+ - Organisation PID
+ 
+Social (more so)
+
+ - Company open data - https://opencorporates.com/
+ - CoC
+ - Open IPR licencing
+ - Copy left - derivative works have to be open licenced
+ - Four freedoms: use, study, share and improve
+ 
 
 
