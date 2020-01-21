@@ -52,7 +52,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
 
 ## Open research publishing / Open science publishing / Open scholarship publishing
 
-Mappnig the questions in Open Science Publishing
+Mapping the questions in Open Science Publishing
 
 
 
