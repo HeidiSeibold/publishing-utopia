@@ -22,18 +22,20 @@ Twitter list: https://twitter.com/Gen_R_/lists/publishing-utopia
 
 Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/VW34GSEA
 
-## Idea to include in the theme
+## Idea to include in the theme (no particular order)
 
  - Scholarly Led &ndash; https://scholarled.org/
- - Substance Call&ndash; https://www.facebook.com/aufreiter/posts/10157258618493171
+ - Copim &ndash; https://copim.pubpub.org/
+ - Substance
  - Business models and funder requirements, disintermediation, creative destruction/disruption
  - Semantic Open Access
- - CryptPad and zeor knowledge systems
+ - CryptPad and zero knowledge systems
  - BMBF Open Access network
  - Shadow Libraries
- - Typesetting and designing for multi-format - Vivliostyle and paginated CSS
+ - Typesetting and designing for multi-format - Vivliostyle and Paginated CSS - what happend to the BiB?
+ - Social book
  - Modern Publishing System
- - Hopes in Collaborative and Real-time systems
+ - Hopes for collaborative and real-time systems
  - Public infrastructure: projects and economics
  - Methods of systems dev: DevOps and Virtualisation
  - Self publishing and decentralised publishing 
@@ -42,4 +44,16 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - OA and considering the public as an academic reader
  - Peer Community https://peercommunityin.org/
  - Pre-prints - 
+ - Slowly introducing the Blockchain
+ - Crypto IDs and publishing
  
+## Surveys
+
+
+## Open research publishing / Open science publishing / Open scholarship publishing
+
+Mappnig the questions in Open Science Publishing
+
+
+
+
