@@ -43,7 +43,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
   - Using flat file systems
  - OA and considering the public as an academic reader
  - Peer Community https://peercommunityin.org/
- - Preprints - 
+ - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
  - Slowly introducing the Blockchain
  - Crypto IDs and publishing
  - Open Peer Review - https://asapbio.org/peer-review
