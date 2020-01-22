@@ -48,7 +48,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Crypto IDs and publishing
  - Open Peer Review - https://asapbio.org/peer-review
  - Computational papers
- - 
+ - Plan S, free-to-publish and free-to-read - Humberto Debat, @humbertodebat https://www.nature.com/articles/d41586-019-02857-1
  
 ## Surveys
 
