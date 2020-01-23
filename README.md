@@ -48,7 +48,8 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Crypto IDs and publishing
  - Open Peer Review - https://asapbio.org/peer-review
  - Computational papers
- - Plan S, free-to-publish and free-to-read - Humberto Debat, @humbertodebat https://www.nature.com/articles/d41586-019-02857-1
+ - Plan S, free-to-publish and free-to-read - Humberto Debat, @humbertodebat https://www.nature.com/articles/d41586-019-02857-1 & https://peerj.com/preprints/27834/ & https://zenodo.org/record/3482933 - Debat, Humberto, and Dominique Babini. ‘Plan S in Latin America: Primum Non Nocere’. 11 October 2019. https://doi.org/10.5281/zenodo.3482933.
+
  
 ## Surveys
 
