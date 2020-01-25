@@ -52,6 +52,8 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
 ### Free-to-publish, free-to-read 
  
  - Plan S, free-to-publish and free-to-read - Humberto Debat, @humbertodebat https://www.nature.com/articles/d41586-019-02857-1 & https://peerj.com/preprints/27834/ & https://zenodo.org/record/3482933 - Debat, Humberto, and Dominique Babini. ‘Plan S in Latin America: Primum Non Nocere’. 11 October 2019. https://doi.org/10.5281/zenodo.3482933.
+ 
+- Ask Force11 people: Notes on free-to-publish, free-to-read:  We should figure out how to articulate our support for this to end Global and inequality in general - No Gold, change Plan S. AmerICA are leaders in S America and globally: Russian, Chinese - see Egypt National Research Institute (have contacts, and lib Alexander: plus Force11 Plan S people.
 
  
 ## Surveys
