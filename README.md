@@ -28,22 +28,11 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
 
  - Scholarly Led &ndash; https://scholarled.org/
  - Copim &ndash; https://copim.pubpub.org/
+ - BMBF Open Access network
+ - Modern Publishing System
+ - Peer Community https://peercommunityin.org/
 
-### Tired / Wired / Expired / Hired / Inspired
-
-#### Hired
-
- - CryptPad and zero knowledge systems
- - Shadow Libraries
- - Computational papers
-
-#### Wired
-
- - Semantic Open Access
- - Open Science Publishing (where science can be interchanged for: research, scholarly, etc.)
- - Substance
-
-#### Expired
+### Inspired / Hired / Wired / Tired / Expired 
 
 #### Inspired 
 
@@ -52,27 +41,37 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
   - Using flat file systems
  - OA and considering the public as an academic reader
  - free-to-publish, free-to-read
-
-
- - Business models and funder requirements, disintermediation, creative destruction/disruption
  - Semantic Open Access
- - Open Science Publishing (where science can be interchanged for: research, scholarly, etc.)
-
- - BMBF Open Access network
- - Typesetting and designing for multi-format - Vivliostyle and Paginated CSS - what happend to the BiB?
- - Social book
- - Modern Publishing System
- - Hopes for collaborative and real-time systems
+ - Bootstrap for multi-format typesetting - Typesetting and designing for multi-format - Vivliostyle and Paginated CSS
+ - Business models and funder requirements, disintermediation, creative destruction/disruption
  - Public infrastructure: projects and economics
- - Methods of systems dev: DevOps and Virtualisation, TTD, CI, CD, IasC
-
- - OA and considering the public as an academic reader
- - Peer Community https://peercommunityin.org/
- - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
  - Slowly introducing the Blockchain
  - Crypto IDs and publishing
- - Open Peer Review - https://asapbio.org/peer-review
+
+#### Hired
+
+ - CryptPad and zero knowledge systems
+ - Shadow Libraries
  - Computational papers
+ - Open Peer Review - https://asapbio.org/peer-review
+ - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
+ - Slowly introducing the Blockchain
+
+#### Wired
+
+ - Open Science Publishing (where science can be interchanged for: research, scholarly, etc.)
+ - Substance
+ - Collaborative and real-time systems (invoving complete research cycle 'Open Science Publishing')
+ - Methods of systems dev: DevOps and Virtualisation, TTD, CI, CD, IasC
+ 
+#### Tired
+
+
+
+#### Expired
+
+ - Books in browsers - what happend to the BiB?
+ - Socialbook
  
 ### Free-to-publish, free-to-read 
  
