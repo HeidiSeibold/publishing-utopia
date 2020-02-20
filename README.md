@@ -30,7 +30,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Copim &ndash; https://copim.pubpub.org/
  - BMBF Open Access network
  - Modern Publishing System
- - Peer Community https://peercommunityin.org/
+ 
 
 ### Inspired / Hired / Wired / Tired / Expired 
 
@@ -47,6 +47,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Public infrastructure: projects and economics
  - Slowly introducing the Blockchain
  - Crypto IDs and publishing
+ - Data mining - collation, enrichment, searching
 
 #### Hired
 
@@ -55,6 +56,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Computational papers
  - Open Peer Review - https://asapbio.org/peer-review
  - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
+   - Peer Community https://peercommunityin.org/
  - Slowly introducing the Blockchain
 
 #### Wired
@@ -63,6 +65,7 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - Substance
  - Collaborative and real-time systems (invoving complete research cycle 'Open Science Publishing')
  - Methods of systems dev: DevOps and Virtualisation, TTD, CI, CD, IasC
+ - JATS interoperable format
  
 #### Tired
 
