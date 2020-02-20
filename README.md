@@ -22,25 +22,50 @@ Twitter list: https://twitter.com/Gen_R_/lists/publishing-utopia
 
 Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/VW34GSEA
 
-## Idea to include in the theme (no particular order)
+## Idea to include in the theme 
+
+### Projects
 
  - Scholarly Led &ndash; https://scholarled.org/
  - Copim &ndash; https://copim.pubpub.org/
+
+### Tired / Wired / Expired / Hired / Inspired
+
+#### Hired
+
+ - CryptPad and zero knowledge systems
+ - Shadow Libraries
+ - Computational papers
+
+#### Wired
+
+ - Semantic Open Access
+ - Open Science Publishing (where science can be interchanged for: research, scholarly, etc.)
  - Substance
+
+#### Expired
+
+#### Inspired 
+
+ - Self publishing and decentralised publishing 
+  - Solid, Dockieli, etc
+  - Using flat file systems
+ - OA and considering the public as an academic reader
+ - free-to-publish, free-to-read
+
+
  - Business models and funder requirements, disintermediation, creative destruction/disruption
  - Semantic Open Access
- - CryptPad and zero knowledge systems
+ - Open Science Publishing (where science can be interchanged for: research, scholarly, etc.)
+
  - BMBF Open Access network
- - Shadow Libraries
  - Typesetting and designing for multi-format - Vivliostyle and Paginated CSS - what happend to the BiB?
  - Social book
  - Modern Publishing System
  - Hopes for collaborative and real-time systems
  - Public infrastructure: projects and economics
- - Methods of systems dev: DevOps and Virtualisation
- - Self publishing and decentralised publishing 
-  - Solid, Dockieli, etc
-  - Using flat file systems
+ - Methods of systems dev: DevOps and Virtualisation, TTD, CI, CD, IasC
+
  - OA and considering the public as an academic reader
  - Peer Community https://peercommunityin.org/
  - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
