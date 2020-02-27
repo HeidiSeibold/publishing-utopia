@@ -7,7 +7,7 @@
 ### Publishing Utopias: A GenR Theme
 
 > We are finally reaching a threshold of change in academic publishing to move over to open digital infrastructure that actually work, and a new arena of technologies that could be called ‘open science publishing’ — the computational paper, linked open data, knowledge graphs, etc. — but that this change involves work and for groups to take the steps necessary for it to happen. 
-The theme we will look at who is making these steps. And in addition get a sharper focus on what this future should look like and how this new technological phase can disintermediate (AKA ‘cutting out the middlemen’) the current restrictive commercial publishers monopolies. (updated 26.2.2020)
+The theme we will look at who is making these steps. And in addition get a sharper focus on what this future should look like and how this new technological phase can disintermediate (AKA ‘cutting out the middlemen’) the current restrictive commercial publishers' monopolies. (updated 26.2.2020)
 
 ## Theme Call
 
