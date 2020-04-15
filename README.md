@@ -40,7 +40,6 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - BMBF Open Access network
  - Modern Publishing System
  
-
 ### Inspired / Hired / Wired / Tired / Expired 
 
 #### Inspired 
@@ -63,6 +62,9 @@ Sources: https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/
  - CryptPad and zero knowledge systems
  - Shadow Libraries
  - Computational papers
+   - Markus Konkol, Daniel Nüst, and Laura Goulier, ‘Publishing Computational Research -- A Review of Infrastructures for Reproducible and Transparent Scholarly Communication’, ArXiv:2001.00484 [Cs], 2 January 2020, http://arxiv.org/abs/2001.00484.
+   - O2R
+   - Ivo Jimenez / UC Santa Cruz, CROSS / @ivotron / @getpopper 
  - Open Peer Review - https://asapbio.org/peer-review
  - Preprints - https://medium.com/@cziscience/strengthening-the-open-science-ecosystem-through-preprints-9e87969631ba
    - Peer Community https://peercommunityin.org/
