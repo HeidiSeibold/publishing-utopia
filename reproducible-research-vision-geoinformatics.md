@@ -1,4 +1,4 @@
-# A vision for reproducible research in geoinformatics, geography, and geosciences
+# A Vision for Reproducible Research in Geoinformatics, Geography, and Geosciences
 
 By [Daniel Nüst](https://orcid.org/0000-0002-0024-5046) and [Markus Konkol](https://orcid.org/0000-0001-6651-0976)
 
