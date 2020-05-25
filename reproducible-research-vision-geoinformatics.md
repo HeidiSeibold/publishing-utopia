@@ -139,7 +139,7 @@ Let's do it &#8212; individually and as communities.
 ## Who are we?
 
 We are a part of the team behind the project [Opening Reproducible Research (o2r)](https://o2r.info/).
-o2r is supported by the [DFG](https://o2r.info/about/#funding)
+o2r is supported by the [DFG](https://o2r.info/about/#funding).
 You can follow us on Twitter [@o2r_project](https://twitter.com/o2r_project) and check out our software on [GitHub.com/o2r-project/](https://github.com/o2r-project/).
 You can also fully dig into all our plans and ideas, because [we published our full research proposal](https://doi.org/10.17879/42149626934).
 This post gives just a glimpse into the challenges of scholarly communication and academic publishing and rewards systems.
