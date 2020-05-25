@@ -8,18 +8,18 @@ Research today is complex and often requires diverse skills.
 Many researchers around the globe collaborate on small or large scale projects to solve global challenges.
 Often, these challenges can only be solved in a [{intra, cross, multi, inter, trans}-disciplinary](https://www.arj.no/2012/03/12/disciplinarities-2/) groups and with the help of computing.
 If you need computers and algorithms to analyse data, no matter how small or big, you are in the realm of _computational research_.
-This in in stark contract to how a large part of scholarly communication, i.e. [_"creation, publication, dissemination and discovery of academic research"_](https://en.wikipedia.org/wiki/Scholarly_communication), works today.
-Results are mostly communicated with static documents, and to a large degree even in a format best suited for printing documents on paper &#8212; the good'ol PDF.
+This in in stark contract to how a large part of scholarly communication, i.e., [_"creation, publication, dissemination and discovery of academic research"_](https://en.wikipedia.org/wiki/Scholarly_communication), works today.
+Results are mostly communicated with static documents, and to a large degree even in a format best suited for printing documents on paper &#8212; the good ol' PDF.
 However, scientific output is much more than just PDFs!
 The scientific article of the past does not suffice anymore to communicate knowledge.
-That is why it almost feels like the widespread use of [computers broke science](https://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938), and we now must adjust the way we share and community research.
+That is why it almost feels like the widespread use of [computers broke science](https://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938), and we now must adjust the way we share and communicate research.
 A research project today does not only create static texts as outputs, but the related data and software used to create, process, and visualise that data.
 _And publishing all these building blocks of research in a reusable and sustainable way is very very hard!_
 The technical solutions and environments exist, but establishing them as common scientific practice takes time and a lot of persuading because researchers will have to adjust their habits and even give up a few beloved ones.
 
-This blog post will try introduce some arguments and present some tools to start persuading _you_ to adopt comutational research practices.
-We will try not to fall into [technology solutionism](https://en.wikipedia.org/wiki/Evgeny_Morozov#To_Save_Everything%2C_Click_Here%3A_The_Folly_of_Technological_Solutionism), which is very hard as software engineers, but being open for new technologies and a little bit of code will get you very far.
-Is there are reproducibility crisis?
+This blog post will try introduce some arguments and present some tools to start persuading _you_ to adopt computational research practices.
+We will try not to fall into [technology solutionism](https://en.wikipedia.org/wiki/Evgeny_Morozov#To_Save_Everything%2C_Click_Here%3A_The_Folly_of_Technological_Solutionism), which is very hard not to do as software engineers, but being open for new technologies and a little bit of code will get you very far.
+Is there a reproducibility crisis?
 [Points](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) [of]() [view]() [differ](https://doi.org/10.1073/pnas.1708272114).
 Your discipline might be better or worse off, better or worse prepared, but we're not going to answer that question here, but focus on the following one.
 
@@ -36,11 +36,12 @@ The [Open Science](https://en.wikipedia.org/wiki/Open_science) movement has achi
 We expect Open Methods and Open Code to follow suit within the next years  &#8212; again, change will take time.
 
 _Are Open practices prevalent?_
+
 No, not yet, despite the [large](https://doi.org/10.7554/eLife.16800) [number](https://doi.org/10.1186/s13059-015-0850-7) [of](https://doi.org/10.1371/journal.pone.0230416) [benefits](https://doi.org/10.1109/MSP.2009.932122) (watch out, that's one paper link per word and many _carrots_ for you!).
 However, software publications (e.g., [JOSS](joss.theoj.org/) and [JORS](https://openresearchsoftware.metajnl.com/)), data publications, [software](https://ropensci.org/) [review](https://www.pyopensci.org/), [open peer review](https://en.wikipedia.org/wiki/Open_peer_review), and not the least [preprints](https://en.wikipedia.org/wiki/Preprint) and [prereviews](https://www.prereview.org/) have jump started academia's catch up with digitisation in the last years. 
 Scientists themselves have the power to push these changes further as [individuals, community members, and holders of offices](https://peerj.com/articles/5072/#discussion).
 Across these stellar examples and new ways to enhance science cut many challenges on [software sustainability](https://doi.org/10.12688/f1000research.23224.1), [data and software citation](https://doi.org/10.1007/978-3-319-96418-8_34), et cetera.
-This is where turn to _money_, _carrots_, and _sticks_: only if funders and evaluators (job boards, reviewers) recognise benefits of transparency and reproducibility will the requirements and rewards be put into place to educate, promote, fund, and eventually demand higher standards on openness.
+This is where we turn to _money_, _carrots_, and _sticks_: only if funders and evaluators (job boards, reviewers) recognise benefits of transparency and reproducibility will the requirements and rewards be put into place to educate, promote, fund, and eventually demand higher standards on openness.
 
 _So what's the golden technology that saves us?_
 
@@ -64,39 +65,41 @@ If you are an author, reviewer, or editor getting in contact with a manuscript t
 If you want to learn more about research compendia and potential implementations, take a look at the webiste [**research-compendium.science**](https://research-compendium.science/).
 If you are interested in reproductions as part of peer review, take a look at [CODECHECK](https://codecheck.org.uk/). If you want to learn more about the platforms that are build around containers, notebooks, and research compendia, take a look at a [recent preprint on infrastructures for publishing computations research](https://arxiv.org/abs/2001.00484).
   
-## What about...
+## What about&hellip;
 
 We are enthusiastic about openness and reproducibility!
 We acknowledge there is a [spectrum](https://doi.org/10.1126/science.1213847) and perfection should not stop you from getting started.
 Every small step counts!
 However, some degree of [whataboutism](https://en.wikipedia.org/wiki/Whataboutism) exists and we try to debunk some perceived concerns:
 
-**... sensitive data?**
+**&hellip; sensitive data?**
 
 [The](https://doi.org/10.1016/j.polgeo.2014.11.001) [solutions](https://science.sciencemag.org/content/365/6449/127.full) [exist](https://doi.org/10.1177/0002716217742610) and range from anonymisation, synthetic data, to public infrastructures and access control.
 This is a question of establishing sustainable processes and long-term infrastructure, so mostly a challenge of funding and pervasion.
 
-**... big data?**
+**&hellip; big data?**
 
 If your workflows use a bespoke high-performance computing with huge datasets of several Petabytes, we admit a complete reproduction during peer review is unlikely to happen.
 But you never know!
 The practices of making sure someone else _could_ reproduce everything will improve your work's quality.
 In this case, you should include a synthetic dataset or data subset in your research compendium, so that others can explore and understand your work within more widely available computing resources.
 
-**... sustainability and reusability?**
+**&hellip; sustainability and reusability?**
 
 A research compendium as presented above is a snapshot for your work at a specific point in time, but does not touch on reusability and sustainability.
 In most guidelines about using research compendia you will actually learn about a good working process, not just about sharing the final product.
 You can use version control ([git](https://en.wikipedia.org/wiki/Git)) and online collaboration platforms (e.g., [GitLab](gitlab.com/) or [GitHub](github.com/)) to take advantage of the structure and tooling around packaging your research every day, not just when you finish a specific project.
 
 _Future you is your best collaborator!_
+
 Therefore, all effort you spend on documentation is very well spent.
 If nothing else, then _have a `README`_ that would be sufficient for getting yourself started after one year away from a project.
 Documentation for others can be added on demand.
 Furthermore, using open file formats (e.g., `CSV` instead of `xlsx`) and reasonable file names will make your work more accessible to others and future you.
 If fellow scientists can build upon your data or reuse your code on their own dataset, new collaborations can happen quickly.
 
-**... licensing?**
+
+**&hellip; licensing?**
 
 [Copyright](https://en.wikipedia.org/wiki/Copyright) is important &#8212; without it, you would not be able to assign a license to enable others to reuse your work. 
 Copyright is also complicated, because it varies greatly across countries.
@@ -105,7 +108,7 @@ For the majority of publicly funded research, however, closed science practices 
 
 On a more technical note, more work needs to be done to assign suitable licenses to data, software, and text within a compendium. [Different license types](https://doi.org/10.1109/MCSE.2009.19) are needed for these artefacts, but it's not simple yet to achieve transparent licensing.
 
-**... some researchers not buying in?**
+**&hellip; some researchers not buying in?**
 
 Change takes time, but the disruptions in scholarly communication and the problems, such as [publication bias](https://en.wikipedia.org/wiki/Publication_bias) or [p-hacking](https://en.wikipedia.org/wiki/Data_dredging), are too pressing so that the scientific community cannot take too long to address them.
 When we [improve metrics](https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351), use [alternative ones](https://doi.org/10.1038/493159a), or adjust [researcher assessment](https://sfdora.org/), then "open science" will become "science" and "reproducible research" will become research again.
