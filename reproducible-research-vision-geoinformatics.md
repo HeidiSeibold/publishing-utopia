@@ -8,7 +8,7 @@ Research today is complex and often requires diverse skills.
 Many researchers around the globe collaborate on small or large scale projects to solve global challenges.
 Often, these challenges can only be solved in a [{intra, cross, multi, inter, trans}-disciplinary](https://www.arj.no/2012/03/12/disciplinarities-2/) groups and with the help of computing.
 If you need computers and algorithms to analyse data, no matter how small or big, you are in the realm of _computational research_.
-This in in stark contract to how a large part of scholarly communication, i.e., [_"creation, publication, dissemination and discovery of academic research"_](https://en.wikipedia.org/wiki/Scholarly_communication), works today.
+This is in stark contrast to how a large part of scholarly communication, i.e., [_"creation, publication, dissemination and discovery of academic research"_](https://en.wikipedia.org/wiki/Scholarly_communication), works today.
 Results are mostly communicated with static documents, and to a large degree even in a format best suited for printing documents on paper &#8212; the good ol' PDF.
 However, scientific output is much more than just PDFs!
 The scientific article of the past does not suffice anymore to communicate knowledge.
@@ -65,7 +65,7 @@ Research compendia have the potential to [enhance peer review](https://codecheck
 That is precisely what some authors, communities, publishers and journals are starting to do today.
 If you are an author, reviewer, or editor getting in contact with a manuscript that includes data and computations, _you should consider leveraging research compendia for better reproducibility_.
 If you want to learn more about research compendia and potential implementations, take a look at the website [**research-compendium.science**](https://research-compendium.science/).
-If you are interested in reproductions as part of peer review, take a look at [CODECHECK](https://codecheck.org.uk/). If you want to learn more about the platforms that are build around containers, notebooks, and research compendia, take a look at a [recent preprint on infrastructures for publishing computations research](https://arxiv.org/abs/2001.00484).
+If you are interested in reproductions as part of peer review, take a look at [CODECHECK](https://codecheck.org.uk/). If you want to learn more about the platforms that are built around containers, notebooks, and research compendia, take a look at a [recent preprint on infrastructures for publishing computations research](https://arxiv.org/abs/2001.00484).
   
 ## What about&hellip;
 
