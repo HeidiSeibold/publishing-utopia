@@ -45,8 +45,11 @@ I think there is a lot we can learn from projects like _The Turing Way_. I will 
 ## Important links
 
 The book: https://the-turing-way.netlify.app
+
 The GitHub repository: https://github.com/alan-turing-institute/the-turing-way
+
 Twitter: https://twitter.com/turingway
+
 Chat: https://gitter.im/alan-turing-institute/the-turing-way
 
 
