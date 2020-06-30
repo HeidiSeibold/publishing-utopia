@@ -34,11 +34,11 @@ She says:
 
 ## What can others learn from The Turing Way with respect to publishing?
 
-I think there is a lot we can learn from projects like _The Turing Way_. I will definetly take some ideas from the project and implement them in other projects and communities. Let me try to summarize the most important points:
+I think there is a lot we can learn from projects like _The Turing Way_. I will definitely take some ideas from the project and implement them in other projects and communities. Let me try to summarize the most important points:
 
-- Publishing does not need to be a commercial endeavour. It can be free for both authors and readers.
+- Publishing does not need to be a commercial endeavor. It can be free for both authors and readers.
 - Use the power of the internet for publishing! No need to print everything on paper.
-- Together we can achieve more - if we organise it well.
+- Together we can achieve more - if we organize it well.
 - A clear enticing vision can go a long way.
 - Value all contributions and acknowledge them fairly.
 
